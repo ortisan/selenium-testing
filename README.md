@@ -25,7 +25,6 @@ export FLASK_APP=microblog.py
 Run Selenium:
 
 ```sh
-cd microblog
-export FLASK_APP=microblog.py
+python main.py
 ```
 
